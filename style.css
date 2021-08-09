@@ -125,22 +125,22 @@ body{
 
 @media screen and (max-width: 500px) {
     #main-layout{
-        width: 400px;
-        height: 1080px;
+        width: 375px;
+        min-height: 720px;
         background-color: hsl(233, 47%, 7%);
         display: flex;
         flex-wrap: wrap;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
-        margin: 0 auto;
+        margin: 30px auto;
     }
 
     
     #text-group{
     
         background-color: hsl(244, 38%, 16%);
-        width: 370px;
+        width: 360px;
         height: 550px;
         align-items: center;
         justify-content: center;
@@ -198,8 +198,8 @@ body{
     
     #image-group{
         background-color: hsl(277, 64%, 61%);
-        width: 370px;
-        height: 300px;
+        width: 360px;
+        height: 290px;
         border-bottom-right-radius: 0;
         border-top-left-radius: 10px;
         
@@ -207,8 +207,8 @@ body{
     
     #image-item img{
         opacity: 0.4;
-        width: 370px;
-        height: 300px;
+        width: 360px;
+        height: 290px;
     }
     
     .stats{
