@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-52agszacA)
-- Live Site URL: [Add live site URL here](https://arbase.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-52agszacA)
+- Live Site URL: [GitHub Pages](https://arbase.github.io/stats-preview-card-component-main/)
 
 ## My process
  It takes me a week maybe to learn this because when I started this challenge I haven't learn about CSS Flexbox
@@ -67,12 +67,12 @@ I will continue this journey with frontendmentor.io, it's so fun when you have a
 ### Useful resources
 
 - [Learn Flexbox in 15 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=2s) - This helped me for learning a flexbox. I really liked this pattern.
-- [Basic concepts flexbox by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Basic concepts flexbox by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This is an amazing article which helped me finally understand flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Website - [Arbase](https://arbase.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@arbase](https://www.frontendmentor.io/profile/arbase)
 - Twitter - [@arbase_](https://www.twitter.com/arbase_)
 
 ## Acknowledgments
