@@ -71,9 +71,9 @@ I will continue this journey with frontendmentor.io, it's so fun when you have a
 
 ## Author
 
-- Website - [Arbase](https://arbase.github.io)
-- Frontend Mentor - [@arbase](https://www.frontendmentor.io/profile/arbase)
-- Twitter - [@arbase_](https://www.twitter.com/arbase_)
+- Website - [Personal](https://aroyanbakti.com)
+- Frontend Mentor - [@aroyan](https://www.frontendmentor.io/profile/aroyan)
+- Twitter - [@aroyanbaktis](https://www.twitter.com/aroyanbaktis)
 
 ## Acknowledgments
 
